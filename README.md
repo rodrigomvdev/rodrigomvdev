@@ -14,6 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 🔭 I’m currently working on `webgis` Development.
+- 🌱 I’m currently learning `webgl` and `threejs`
+- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
+- 🤔 I’m looking for help with Open source Contribution.
+- ⚙️ I use daily: `.js`, `.vue`, `.jsx`, `.css`, `.less`, `.ts`
+- 💬 Ping me about **vue**, **fullstack**, **development**, **design**
+
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr>
+</table>
+
 <svg width="100%" height="100%" id="svg" viewBox="0 0 1440 490" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150"><style>
           .path-0{
             animation:pathAnim-0 4s;
