@@ -1,34 +1,39 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=13536E"/>
 </div>
-<h1 align="center">
-   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Rodrigo Montaño Vasquez
-</h1>
+<div align="center" style="border: px solid #000000;>
 
-<br>
-<h2>🙋‍♂️ About Me </h2>
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Hi+I'm+Rodrigo+Montaño+Vasquez;System+Engineer;Full+Stack+Developer;AI+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=13536E"/>
 
 
+<img 
+  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"
+  alt="illustration of a computer" 
+  min-width="400px" 
+  max-width="400px" 
+  width="400px" 
+  align="right"  
+/>
+
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me </h2>
+
+<p align="left">
+  I'm a <strong>System Engineer</strong> specialized in <strong>web development</strong>. I enjoy combining creativity and technology, and I share here my academic and personal projects as I keep improving my skills. My goal is to become a professional in digital design and app development.
+</p>
+<p>
+  
 - 🔭 I am currently working on web application development.
 - 🌱 I am learning `React` and `Node.js`.
 - 👯 I am looking to collaborate with full-stack and frontend visualization web developers.
 - ⚙️ I use the following daily: `.js`, `.py`, `.jsx`, `.css`, `.less`, `.ts`
-- 💬 Contact me to discuss **Python**, **full-stack**, **development**, or **design**.
-
-</td>
-<td width="50%" align="center">
-  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
- <!-- <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">-->
-</td>
-</tr>
-</table>
+- 💬 Contact me to discuss <code>&lt;/Python&gt;</code>, <code>&lt;/full-stack&gt;</code>,<code>&lt;/development&gt;</code>, or <code>&lt;/design&gt;</code>.
+</p>
 <br>
 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Skills</b>
 <p align="center">
 
 - 📋 Languages: 
@@ -78,23 +83,27 @@
 
 <p align="center">
   <a href="https://github.com/rodrigomvdev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigomvdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/rodrigomvdev1">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigomvdev&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-<br>
+
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+
+
+<a href= "https://www.tiktok.com/@rodrigomv.dev">
+<img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
+</a>
 <a href= "https://www.instagram.com/rodrigomv.dev/"> 
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href= "https://www.threads.com/@rodrigomv.dev">
 <img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" />
 </a>
-<a href= "https://www.tiktok.com/@rodrigomv.dev">
-<img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
+<a href= "https://x.com/rodrigomvdev"> 
+<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=13536E"/>
