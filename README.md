@@ -95,10 +95,10 @@
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/rodrigo-david-monta%C3%B1o-vasquez-39a988250/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodrigomv098@gmail.com&su=Consulta%20sobre%20un%20proyecto" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodrigomv098@gmail.com&su=Consulta%20sobre%20un%20proyecto">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.instagram.com/rodrigomv.dev/">
