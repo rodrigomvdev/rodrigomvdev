@@ -98,7 +98,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:rodrigomv098@gmail.com?subject=Consulta%20sobre%20un%20proyecto">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodrigomv098@gmail.com&su=Consulta%20sobre%20un%20proyecto" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.instagram.com/rodrigomv.dev/">
