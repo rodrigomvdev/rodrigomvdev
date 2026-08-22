@@ -94,16 +94,19 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 
 
-<a href= "https://www.tiktok.com/@rodrigomv.dev">
-<img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
-</a>
-<a href= "https://www.instagram.com/rodrigomv.dev/"> 
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href= "https://www.threads.com/@rodrigomv.dev">
-<img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" />
-</a>
-<a href= "https://x.com/rodrigomvdev"> 
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:rodrigomv098@gmail.com?subject=Consulta%20sobre%20un%20proyecto">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.instagram.com/rodrigomv.dev/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://x.com/rodrigomvdev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
 
